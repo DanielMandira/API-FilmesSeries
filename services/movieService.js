@@ -30,7 +30,7 @@ class movieSvice {
     revenue
   ) {
     try {
-      const newMovie = new Filme({
+      const newMovie = new Movie({
         imdb_id,
         title,
         original_title,
@@ -63,7 +63,25 @@ class movieSvice {
     }
   }
 
-  async Update(imdb_id, title, original_title, alternative_titles, adult, genres, synopsis, cast, origin_country, original_language, poster_path, release_date, duration, producer, budget, revenue) {
+  async Update(
+    id,
+    imdb_id,
+    title,
+    original_title,
+    alternative_titles,
+    adult,
+    genres,
+    synopsis,
+    cast,
+    origin_country,
+    original_language,
+    poster_path,
+    release_date,
+    duration,
+    producer,
+    budget,
+    revenue
+  ) {
     try {
       await Movie.findByIdAndUpdate(id, {
         imdb_id,
@@ -88,14 +106,14 @@ class movieSvice {
       console.log(error);
     }
   }
-  async getOne(id){
-    try{
-        const movie = await Movie.findOne({_id: id})
-        return movie
-    }catch(error){
-        console.log(error)
+  async getOne(id) {
+    try {
+      const movie = await Movie.findOne({ _id: id });
+      return movie;
+    } catch (error) {
+      console.log(error);
     }
   }
 }
 
-export default new movieSvice()
+export default new movieSvice();

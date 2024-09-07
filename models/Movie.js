@@ -19,7 +19,7 @@ const movieSchema = new mongoose.Schema({
   original_title: String,
   alternative_titles: [alternativeTitleSchema],
   adult: Boolean,
-    // Estrutura usada para array de texto no mongoose
+  // Estrutura usada para array de texto no mongoose
   genres: [String],
   synopsis: String,
   cast: [castSchema],
