@@ -1,11 +1,10 @@
-// importação do modelo de filmes
-import Movie from "../models/Movies.js";
+import Serie from "../models/Series.js";
 
-class movieSvice {
+class serieService {
   async getAll() {
     try {
-      const movies = await Movie.find();
-      return movies;
+      const series = await Serie.find();
+      return series;
     } catch (error) {
       console.log(error);
     }
@@ -15,40 +14,32 @@ class movieSvice {
     imdb_id,
     title,
     original_title,
-    alternative_titles,
     adult,
     genres,
-    synopsis,
-    cast,
+    seasons,
     origin_country,
     original_language,
     poster_path,
-    release_date,
-    duration,
     producer,
     budget,
     revenue
   ) {
     try {
-      const newMovie = new Movie({
+      const newSerie = new Serie({
         imdb_id,
         title,
         original_title,
-        alternative_titles,
         adult,
         genres,
-        synopsis,
-        cast,
+        seasons,
         origin_country,
         original_language,
         poster_path,
-        release_date,
-        duration,
         producer,
         budget,
         revenue,
       });
-      await newMovie.save();
+      await newSerie.save();
     } catch (error) {
       console.log(error);
     }
@@ -56,64 +47,55 @@ class movieSvice {
 
   async Delete(id) {
     try {
-      await Movie.findByIdAndDelete(id);
-      console.log(`Filme com id ${id} Deletado com sucesso!`);
+      await Serie.findByIdAndDelete(id);
+      console.log(`Serie com id ${id} Deletado com sucesso!`);
     } catch (error) {
       console.log(error);
     }
   }
 
   async Update(
-    id,
     imdb_id,
     title,
     original_title,
-    alternative_titles,
     adult,
     genres,
-    synopsis,
-    cast,
+    seasons,
     origin_country,
     original_language,
     poster_path,
-    release_date,
-    duration,
     producer,
     budget,
     revenue
   ) {
     try {
-      await Movie.findByIdAndUpdate(id, {
+      await Serie.findByIdAndUpdate(id, {
         imdb_id,
         title,
         original_title,
-        alternative_titles,
         adult,
         genres,
-        synopsis,
-        cast,
+        seasons,
         origin_country,
         original_language,
         poster_path,
-        release_date,
-        duration,
         producer,
         budget,
         revenue,
       });
-      console.log(`Filme com id ${id} alterado com sucesso!`);
+      console.log(`Serie com id ${id} alterado com sucesso!`);
     } catch (error) {
       console.log(error);
     }
   }
   async getOne(id) {
     try {
-      const movie = await Movie.findOne({ _id: id });
-      return movie;
+      const serie = await Serie.findOne({ _id: id });
+      return serie;
     } catch (error) {
       console.log(error);
     }
   }
 }
 
-export default new movieSvice();
+export default new serieService();
