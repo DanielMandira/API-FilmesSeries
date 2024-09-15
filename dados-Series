@@ -1,0 +1,949 @@
+[
+  {
+    "imdb_id": "tt7016936",
+    "title": "Killing Eve",
+    "original_title": "Killing Eve",
+    "adult": false,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "realese_date": "2018-04-08",
+        "sinopse": "A caçada entre uma agente de segurança e uma assassina talentosa se torna uma obsessão mútua.",
+        "poster_path": "/images/killing_eve_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "realese_date": "2019-04-07",
+        "sinopse": "O jogo de gato e rato continua enquanto Eve e Villanelle enfrentam novos desafios.",
+        "poster_path": "/images/killing_eve_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "realese_date": "2020-04-12",
+        "sinopse": "Eve e Villanelle enfrentam novas provações enquanto o relacionamento entre elas evolui.",
+        "poster_path": "/images/killing_eve_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 8,
+        "realese_date": "2022-02-27",
+        "sinopse": "A temporada final traz um clímax intenso para a relação entre Eve e Villanelle.",
+        "poster_path": "/images/killing_eve_s4.jpg"
+      }
+    ],
+    "origin_country": "UK",
+    "original_language": "English",
+    "poster_path": "/images/killing_eve.jpg",
+    "producer": "Phoebe Waller-Bridge",
+    "budget": 2000000,
+    "revenue": 30000000
+  },
+  {
+    "imdb_id": "tt0413573",
+    "title": "Grey's Anatomy",
+    "original_title": "Grey's Anatomy",
+    "adult": true,
+    "genres": ["Drama", "Romance"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 9,
+        "realese_date": "2005-03-27",
+        "sinopse": "A série segue a vida de cirurgiões em um hospital de Seattle enquanto lidam com desafios profissionais e pessoais.",
+        "poster_path": "/images/greys_anatomy_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 27,
+        "realese_date": "2005-09-21",
+        "sinopse": "Os residentes enfrentam novos desafios enquanto suas vidas pessoais se tornam mais complicadas.",
+        "poster_path": "/images/greys_anatomy_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 25,
+        "realese_date": "2006-09-21",
+        "sinopse": "Mais drama e reviravoltas na vida dos residentes enquanto enfrentam novos problemas no hospital.",
+        "poster_path": "/images/greys_anatomy_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 17,
+        "realese_date": "2007-09-21",
+        "sinopse": "Os residentes enfrentam mais desafios enquanto lidam com suas vidas pessoais e profissionais.",
+        "poster_path": "/images/greys_anatomy_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 24,
+        "realese_date": "2008-09-25",
+        "sinopse": "Mudanças no hospital e na vida pessoal dos residentes trazem novos desafios e dramas.",
+        "poster_path": "/images/greys_anatomy_s5.jpg"
+      },
+      {
+        "season": 6,
+        "episodes": 24,
+        "realese_date": "2009-09-21",
+        "sinopse": "A vida dos residentes continua a ser testada por novos desafios e situações difíceis.",
+        "poster_path": "/images/greys_anatomy_s6.jpg"
+      },
+      {
+        "season": 7,
+        "episodes": 22,
+        "realese_date": "2010-09-23",
+        "sinopse": "Novos dramas e mudanças na vida dos residentes continuam a afetar suas vidas pessoais e profissionais.",
+        "poster_path": "/images/greys_anatomy_s7.jpg"
+      },
+      {
+        "season": 8,
+        "episodes": 24,
+        "realese_date": "2011-09-21",
+        "sinopse": "Os residentes enfrentam desafios significativos enquanto lidam com questões pessoais e profissionais.",
+        "poster_path": "/images/greys_anatomy_s8.jpg"
+      },
+      {
+        "season": 9,
+        "episodes": 24,
+        "realese_date": "2012-09-27",
+        "sinopse": "Mais drama e desafios enfrentados pelos residentes enquanto suas vidas mudam de maneiras inesperadas.",
+        "poster_path": "/images/greys_anatomy_s9.jpg"
+      },
+      {
+        "season": 10,
+        "episodes": 24,
+        "realese_date": "2013-09-26",
+        "sinopse": "Desafios contínuos na vida dos residentes enquanto enfrentam novas situações no hospital e em suas vidas pessoais.",
+        "poster_path": "/images/greys_anatomy_s10.jpg"
+      },
+      {
+        "season": 11,
+        "episodes": 25,
+        "realese_date": "2014-09-25",
+        "sinopse": "Os residentes continuam a enfrentar novos desafios e mudanças em suas vidas pessoais e no hospital.",
+        "poster_path": "/images/greys_anatomy_s11.jpg"
+      },
+      {
+        "season": 12,
+        "episodes": 24,
+        "realese_date": "2015-09-24",
+        "sinopse": "Mudanças importantes ocorrem na vida dos residentes enquanto eles enfrentam novos desafios.",
+        "poster_path": "/images/greys_anatomy_s12.jpg"
+      },
+      {
+        "season": 13,
+        "episodes": 24,
+        "realese_date": "2016-09-22",
+        "sinopse": "A série continua a explorar os desafios e as mudanças na vida dos residentes.",
+        "poster_path": "/images/greys_anatomy_s13.jpg"
+      },
+      {
+        "season": 14,
+        "episodes": 24,
+        "realese_date": "2017-09-28",
+        "sinopse": "Os residentes enfrentam novas situações e desafios enquanto suas vidas continuam a evoluir.",
+        "poster_path": "/images/greys_anatomy_s14.jpg"
+      },
+      {
+        "season": 15,
+        "episodes": 25,
+        "realese_date": "2018-09-27",
+        "sinopse": "Novos desafios e reviravoltas na vida dos residentes enquanto lidam com problemas profissionais e pessoais.",
+        "poster_path": "/images/greys_anatomy_s15.jpg"
+      },
+      {
+        "season": 16,
+        "episodes": 21,
+        "realese_date": "2019-11-07",
+        "sinopse": "Mais drama e desafios enfrentados pelos residentes enquanto suas vidas continuam a mudar.",
+        "poster_path": "/images/greys_anatomy_s16.jpg"
+      },
+      {
+        "season": 17,
+        "episodes": 17,
+        "realese_date": "2021-03-11",
+        "sinopse": "Os residentes enfrentam novos desafios e situações críticas enquanto continuam a lidar com mudanças em suas vidas.",
+        "poster_path": "/images/greys_anatomy_s17.jpg"
+      }
+    ],
+    "origin_country": "US",
+    "original_language": "English",
+    "poster_path": "/images/greys_anatomy.jpg",
+    "producer": "Shonda Rhimes",
+    "budget": 4000000,
+    "revenue": 150000000
+  },
+  {
+    "imdb_id": "tt8792176",
+    "title": "Station 19",
+    "original_title": "Station 19",
+    "adult": true,
+    "genres": ["Drama"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10,
+        "realese_date": "2018-03-22",
+        "sinopse": "A vida dos bombeiros da estação 19 em Seattle enquanto eles enfrentam desafios tanto dentro quanto fora do trabalho.",
+        "poster_path": "/images/station_19_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 16,
+        "realese_date": "2018-10-04",
+        "sinopse": "Os bombeiros enfrentam novos desafios e situações enquanto lidam com suas vidas pessoais e profissionais.",
+        "poster_path": "/images/station_19_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 16,
+        "realese_date": "2020-01-23",
+        "sinopse": "Mais drama e desafios enfrentados pelos bombeiros enquanto continuam a lidar com a vida no trabalho e fora dele.",
+        "poster_path": "/images/station_19_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 18,
+        "realese_date": "2021-03-11",
+        "sinopse": "A vida dos bombeiros continua a ser testada por novos desafios e situações críticas.",
+        "poster_path": "/images/station_19_s4.jpg"
+      }
+    ],
+    "origin_country": "US",
+    "original_language": "English",
+    "poster_path": "/images/station_19.jpg",
+    "producer": "Krista Vernoff",
+    "budget": 3000000,
+    "revenue": 50000000
+  },
+  {
+    "imdb_id": "tt4052886",
+    "title": "Lucifer",
+    "original_title": "Lucifer",
+    "adult": true,
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13,
+        "realese_date": "2016-01-25",
+        "sinopse": "O diabo se aposentou do inferno e começou a administrar um clube em Los Angeles enquanto ajuda a polícia a resolver crimes.",
+        "poster_path": "/images/lucifer_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 18,
+        "realese_date": "2016-09-19",
+        "sinopse": "Lucifer continua a ajudar a polícia e enfrenta novos desafios enquanto suas questões pessoais se complicam.",
+        "poster_path": "/images/lucifer_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 26,
+        "realese_date": "2017-10-02",
+        "sinopse": "Lucifer lida com novas ameaças e desenvolvimentos em sua vida pessoal e no trabalho com a polícia.",
+        "poster_path": "/images/lucifer_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 10,
+        "realese_date": "2019-05-08",
+        "sinopse": "A temporada explora novos conflitos e desafios para Lucifer enquanto ele enfrenta novas ameaças.",
+        "poster_path": "/images/lucifer_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 16,
+        "realese_date": "2020-08-21",
+        "sinopse": "Lucifer continua a lidar com suas questões pessoais e enfrenta novos desafios enquanto trabalha com a polícia.",
+        "poster_path": "/images/lucifer_s5.jpg"
+      },
+      {
+        "season": 6,
+        "episodes": 10,
+        "realese_date": "2021-09-10",
+        "sinopse": "A temporada final traz um clímax para a vida de Lucifer enquanto ele enfrenta seu destino.",
+        "poster_path": "/images/lucifer_s6.jpg"
+      }
+    ],
+    "origin_country": "US",
+    "original_language": "English",
+    "poster_path": "/images/lucifer.jpg",
+    "producer": "Tom Kapinos",
+    "budget": 4000000,
+    "revenue": 80000000
+  }
+
+  {
+    "imdb_id": "tt11083550",
+    "title": "Goblin",
+    "original_title": "도깨비 (Dokkaebi)",
+    "adult": false,
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 16,
+        "realese_date": "2016-12-02",
+        "sinopse": "Um ser imortal e um anjo da morte se encontram e enfrentam seu destino enquanto tentam resolver mistérios do passado.",
+        "poster_path": "/images/goblin_s1.jpg"
+      }
+    ],
+    "origin_country": "South Korea",
+    "original_language": "Korean",
+    "poster_path": "/images/goblin.jpg",
+    "producer": "Kim Eun-sook",
+    "budget": 2000000,
+    "revenue": 50000000
+  },
+  {
+    "imdb_id": "tt8935246",
+    "title": "Crash Landing on You",
+    "original_title": "사랑의 불시착 (Salang-ui Bulsichak)",
+    "adult": false,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 16,
+        "realese_date": "2019-12-14",
+        "sinopse": "Uma herdeira sul-coreana fica presa na Coreia do Norte após um acidente e desenvolve um romance com um oficial norte-coreano.",
+        "poster_path": "/images/crash_landing_on_you_s1.jpg"
+      }
+    ],
+    "origin_country": "South Korea",
+    "original_language": "Korean",
+    "poster_path": "/images/crash_landing_on_you.jpg",
+    "producer": "Park Ji-eun",
+    "budget": 2500000,
+    "revenue": 60000000
+  },
+  {
+    "imdb_id": "tt10054600",
+    "title": "Vincenzo",
+    "original_title": "빈센조 (Binsenjo)",
+    "adult": false,
+    "genres": ["Comedy", "Crime", "Drama"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20,
+        "realese_date": "2021-02-20",
+        "sinopse": "Um advogado italiano de origem coreana retorna à Coreia do Sul para recuperar ouro roubado e se envolve em uma guerra contra uma corporação corrupta.",
+        "poster_path": "/images/vincenzo_s1.jpg"
+      }
+    ],
+    "origin_country": "South Korea",
+    "original_language": "Korean",
+    "poster_path": "/images/vincenzo.jpg",
+    "producer": "Park Jae-bum",
+    "budget": 3000000,
+    "revenue": 70000000
+  },
+  {
+    "imdb_id": "tt15327088",
+    "title": "Our Beloved Summer",
+    "original_title": "그 해 우리는 (Geu Hae Urineun)",
+    "adult": false,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 16,
+        "realese_date": "2021-12-06",
+        "sinopse": "Antigos amantes se reencontram anos depois de seu rompimento e lidam com os sentimentos não resolvidos e novos desafios.",
+        "poster_path": "/images/our_beloved_summer_s1.jpg"
+      }
+    ],
+    "origin_country": "South Korea",
+    "original_language": "Korean",
+    "poster_path": "/images/our_beloved_summer.jpg",
+    "producer": "Lee Na-eun",
+    "budget": 2000000,
+    "revenue": 40000000
+  }
+[
+  {
+    "imdb_id": "tt7366338",
+    "title": "Chernobyl",
+    "original_title": "Chernobyl",
+    "adult": false,
+    "genres": ["Drama", "History", "Thriller"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 5,
+        "realese_date": "2019-05-06",
+        "sinopse": "Série que dramatiza o desastre nuclear de Chernobyl em 1986 e os esforços heróicos daqueles que tentaram minimizar os danos.",
+        "poster_path": "/images/chernobyl_s1.jpg"
+      }
+    
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/chernobyl.jpg",
+    "producer": "Craig Mazin",
+    "budget": 20000000,
+    "revenue": 40000000
+  },
+  {
+    "imdb_id": "tt4574334",
+    "title": "Stranger Things",
+    "original_title": "Stranger Things",
+    "adult": false,
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "realese_date": "2016-07-15",
+        "sinopse": "Um grupo de crianças tenta desvendar o desaparecimento de um amigo, mas descobre uma série de eventos sobrenaturais.",
+        "poster_path": "/images/stranger_things_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 9,
+        "realese_date": "2017-10-27",
+        "sinopse": "O grupo de amigos lida com os efeitos colaterais de seus encontros com o Mundo Invertido.",
+        "poster_path": "/images/stranger_things_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "realese_date": "2019-07-04",
+        "sinopse": "Os amigos enfrentam uma nova ameaça e lutas internas durante o verão de 1985.",
+        "poster_path": "/images/stranger_things_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 9,
+        "realese_date": "2022-05-27",
+        "sinopse": "Os eventos em Hawkins ficam mais sombrios e aterrorizantes enquanto as forças do Mundo Invertido se intensificam.",
+        "poster_path": "/images/stranger_things_s4.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/stranger_things.jpg",
+    "producer": "Duffer Brothers",
+    "budget": 8000000,
+    "revenue": 150000000
+  },
+  {
+    "imdb_id": "tt0944947",
+    "title": "Game of Thrones",
+    "original_title": "Game of Thrones",
+    "adult": true,
+    "genres": ["Action", "Adventure", "Drama"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10,
+        "realese_date": "2011-04-17",
+        "sinopse": "Nove famílias nobres lutam pelo controle do mítico reino de Westeros, enquanto uma força antiga e esquecida retorna.",
+        "poster_path": "/images/got_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 10,
+        "realese_date": "2012-04-01",
+        "sinopse": "Com o caos nas terras, novas alianças são formadas e uma guerra entre os reinos começa a se desenrolar.",
+        "poster_path": "/images/got_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 10,
+        "realese_date": "2013-03-31",
+        "sinopse": "Os eventos da guerra escalam, enquanto dragões e mortos-vivos começam a mostrar sua presença no reino.",
+        "poster_path": "/images/got_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 10,
+        "realese_date": "2014-04-06",
+        "sinopse": "O jogo pelo trono de ferro continua, com traições e alianças sendo formadas em todos os cantos.",
+        "poster_path": "/images/got_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 10,
+        "realese_date": "2015-04-12",
+        "sinopse": "A guerra alcança seu ponto mais intenso, com cada personagem enfrentando suas maiores provações.",
+        "poster_path": "/images/got_s5.jpg"
+      },
+      {
+        "season": 6,
+        "episodes": 10,
+        "realese_date": "2016-04-24",
+        "sinopse": "Velhos inimigos e aliados se unem para confrontar as ameaças sobrenaturais.",
+        "poster_path": "/images/got_s6.jpg"
+      },
+      {
+        "season": 7,
+        "episodes": 7,
+        "realese_date": "2017-07-16",
+        "sinopse": "Os White Walkers se aproximam e os reinos começam a se preparar para a batalha final.",
+        "poster_path": "/images/got_s7.jpg"
+      },
+      {
+        "season": 8,
+        "episodes": 6,
+        "realese_date": "2019-04-14",
+        "sinopse": "A batalha final pelo Trono de Ferro atinge seu clímax, com os destinos de todos os personagens sendo decididos.",
+        "poster_path": "/images/got_s8.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/got.jpg",
+    "producer": "David Benioff",
+    "budget": 60000000,
+    "revenue": 1500000000
+  },
+  {
+    "imdb_id": "tt0903748",
+    "title": "Better Call Saul",
+    "original_title": "Better Call Saul",
+    "adult": false,
+    "genres": ["Crime", "Drama"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10,
+        "realese_date": "2015-02-08",
+        "sinopse": "Antes de se tornar Saul Goodman, Jimmy McGill luta para encontrar seu caminho como advogado em meio ao mundo do crime.",
+        "poster_path": "/images/better_call_saul_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 10,
+        "realese_date": "2016-02-15",
+        "sinopse": "Jimmy continua sua transição para Saul Goodman, equilibrando ética e ambição.",
+        "poster_path": "/images/better_call_saul_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 10,
+        "realese_date": "2017-04-10",
+        "sinopse": "Com a pressão aumentando, Jimmy enfrenta escolhas difíceis que moldam sua transformação.",
+        "poster_path": "/images/better_call_saul_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 10,
+        "realese_date": "2018-08-06",
+        "sinopse": "A evolução de Jimmy para Saul Goodman acelera, enquanto os conflitos com seu irmão Chuck chegam ao clímax.",
+        "poster_path": "/images/better_call_saul_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 10,
+        "realese_date": "2020-02-23",
+        "sinopse": "Jimmy finalmente adota o nome Saul Goodman enquanto entra mais profundamente no submundo do crime.",
+        "poster_path": "/images/better_call_saul_s5.jpg"
+      },
+      {
+        "season": 6,
+        "episodes": 13,
+        "realese_date": "2022-04-18",
+        "sinopse": "Na temporada final, Saul Goodman enfrenta as consequências de suas escolhas e o colapso moral de seus aliados.",
+        "poster_path": "/images/better_call_saul_s6.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/better_call_saul.jpg",
+    "producer": "Vince Gilligan",
+    "budget": 2000000,
+    "revenue": 400000000
+  },
+  {
+    "imdb_id": "tt0773262",
+    "title": "Dexter",
+    "original_title": "Dexter",
+    "adult": true,
+    "genres": ["Crime", "Drama", "Mystery"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12,
+        "realese_date": "2006-10-01",
+        "sinopse": "Dexter Morgan, um analista forense com sede de justiça, também é um assassino em série que elimina criminosos que escapam da lei.",
+        "poster_path": "/images/dexter_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 12,
+        "realese_date": "2007-09-30",
+        "sinopse": "A identidade de Dexter está em risco enquanto ele enfrenta um novo assassino e pressões internas.",
+        "poster_path": "/images/dexter_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 12,
+        "realese_date": "2008-09-28",
+        "sinopse": "Dexter enfrenta desafios maiores enquanto um novo personagem surge, ameaçando sua vida e seus segredos.",
+        "poster_path": "/images/dexter_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 12,
+        "realese_date": "2009-09-27",
+        "sinopse": "O 'Trinity Killer' desafia Dexter de maneiras inesperadas, colocando sua vida e sua família em perigo.",
+        "poster_path": "/images/dexter_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 12,
+        "realese_date": "2010-09-26",
+        "sinopse": "Depois da morte de sua esposa, Dexter lida com o luto e novas ameaças surgem.",
+        "poster_path": "/images/dexter_s5.jpg"
+      },
+      {
+        "season": 6,
+        "episodes": 12,
+        "realese_date": "2011-10-02",
+        "sinopse": "Dexter enfrenta um novo tipo de vilão e começa a questionar seus próprios princípios e moralidade.",
+        "poster_path": "/images/dexter_s6.jpg"
+      },
+      {
+        "season": 7,
+        "episodes": 12,
+        "realese_date": "2012-09-30",
+        "sinopse": "A vida de Dexter se torna ainda mais complicada com o surgimento de um novo e perigoso inimigo.",
+        "poster_path": "/images/dexter_s7.jpg"
+      },
+      {
+        "season": 8,
+        "episodes": 12,
+        "realese_date": "2013-06-30",
+        "sinopse": "Na temporada final, Dexter enfrenta a possibilidade de ser descoberto e a consequência final de suas ações.",
+        "poster_path": "/images/dexter_s8.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/dexter.jpg",
+    "producer": "James Manos Jr.",
+    "budget": 3000000,
+    "revenue": 700000000
+  },
+  {
+    "imdb_id": "tt2261396",
+    "title": "The Crown",
+    "original_title": "The Crown",
+    "adult": false,
+    "genres": ["Biography", "Drama", "History"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10,
+        "realese_date": "2016-11-04",
+        "sinopse": "A série retrata a vida da Rainha Elizabeth II desde seus primeiros dias no trono até os eventos mais recentes.",
+        "poster_path": "/images/the_crown_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 10,
+        "realese_date": "2017-12-08",
+        "sinopse": "Os desafios políticos e pessoais da Rainha Elizabeth II continuam, enquanto ela enfrenta a evolução da era moderna.",
+        "poster_path": "/images/the_crown_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 10,
+        "realese_date": "2019-11-17",
+        "sinopse": "A nova era da realeza é explorada, com mudanças no elenco refletindo o passar dos anos.",
+        "poster_path": "/images/the_crown_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 10,
+        "realese_date": "2020-11-15",
+        "sinopse": "A série aborda eventos significativos da década de 1980, incluindo a relação com Lady Diana.",
+        "poster_path": "/images/the_crown_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 10,
+        "realese_date": "2022-11-09",
+        "sinopse": "A temporada explora a década de 1990, um período turbulento para a monarquia britânica.",
+        "poster_path": "/images/the_crown_s5.jpg"
+      }
+    ],
+    "origin_country": "UK",
+    "original_language": "English",
+    "poster_path": "/images/the_crown.jpg",
+    "producer": "Peter Morgan",
+    "budget": 13000000,
+    "revenue": 60000000
+  },
+  {
+    "imdb_id": "tt7375692",
+    "title": "The Mandalorian",
+    "original_title": "The Mandalorian",
+    "adult": false,
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "realese_date": "2019-11-12",
+        "sinopse": "Um caçador de recompensas solitário navega pelas regiões mais distantes da galáxia, após a queda do Império.",
+        "poster_path": "/images/mandalorian_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "realese_date": "2020-10-30",
+        "sinopse": "O Mandaloriano continua sua jornada e encontra novos aliados e inimigos enquanto busca o destino de seu pequeno protegido.",
+        "poster_path": "/images/mandalorian_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "realese_date": "2023-03-01",
+        "sinopse": "A terceira temporada traz novos desafios e aventuras para o Mandaloriano enquanto ele continua sua missão.",
+        "poster_path": "/images/mandalorian_s3.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/mandalorian.jpg",
+    "producer": "Jon Favreau",
+    "budget": 15000000,
+    "revenue": 400000000
+  }
+
+  {
+    "imdb_id": "tt0903747",
+    "title": "Breaking Bad",
+    "original_title": "Breaking Bad",
+    "adult": false,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 7,
+        "realese_date": "2008-01-20",
+        "sinopse": "Walter White, um professor de química diagnosticado com câncer terminal, decide fabricar metanfetamina para garantir o futuro financeiro de sua família.",
+        "poster_path": "/images/breaking_bad_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 13,
+        "realese_date": "2009-03-08",
+        "sinopse": "A operação de Walter e Jesse cresce, e eles começam a enfrentar ameaças mais graves.",
+        "poster_path": "/images/breaking_bad_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 13,
+        "realese_date": "2010-03-21",
+        "sinopse": "Walter White enfrenta novos dilemas morais enquanto tenta balancear sua vida dupla de criminoso e pai de família.",
+        "poster_path": "/images/breaking_bad_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 13,
+        "realese_date": "2011-07-17",
+        "sinopse": "Walter entra em confronto com o poderoso chefe do tráfico, Gus Fring, enquanto lida com o caos pessoal que suas escolhas causaram.",
+        "poster_path": "/images/breaking_bad_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 16,
+        "realese_date": "2012-07-15",
+        "sinopse": "A temporada final vê Walter consolidar sua posição no tráfico de drogas, levando a um desfecho dramático.",
+        "poster_path": "/images/breaking_bad_s5.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/breaking_bad.jpg",
+    "producer": "Vince Gilligan",
+    "budget": 3000000,
+    "revenue": 200000000
+  },
+  {
+    "imdb_id": "tt1475582",
+    "title": "Sherlock",
+    "original_title": "Sherlock",
+    "adult": false,
+    "genres": ["Crime", "Drama", "Mistério"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3,
+        "realese_date": "2010-07-25",
+        "sinopse": "Sherlock Holmes, um detetive consultor excêntrico, resolve casos complexos em Londres com a ajuda de seu amigo Dr. John Watson.",
+        "poster_path": "/images/sherlock_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 3,
+        "realese_date": "2012-01-01",
+        "sinopse": "Sherlock e Watson enfrentam seu inimigo mortal, Moriarty, enquanto continuam a resolver os mistérios mais intrigantes de Londres.",
+        "poster_path": "/images/sherlock_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 3,
+        "realese_date": "2014-01-01",
+        "sinopse": "Depois de forjar sua própria morte, Sherlock retorna a Londres para enfrentar novos desafios e resolver um mistério pessoal.",
+        "poster_path": "/images/sherlock_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 3,
+        "realese_date": "2017-01-01",
+        "sinopse": "Sherlock enfrenta seu passado e uma nova ameaça que coloca em risco tudo o que ele valoriza.",
+        "poster_path": "/images/sherlock_s4.jpg"
+      }
+    ],
+    "origin_country": "UK",
+    "original_language": "English",
+    "poster_path": "/images/sherlock.jpg",
+    "producer": "Steven Moffat",
+    "budget": 4000000,
+    "revenue": 100000000
+  },
+  {
+    "imdb_id": "tt3107288",
+    "title": "The Flash",
+    "original_title": "The Flash",
+    "adult": false,
+    "genres": ["Action", "Adventure", "Drama"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 23,
+        "realese_date": "2014-10-07",
+        "sinopse": "Barry Allen, um investigador forense, ganha supervelocidade após um acidente e se torna o super-herói Flash.",
+        "poster_path": "/images/flash_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 23,
+        "realese_date": "2015-10-06",
+        "sinopse": "Barry enfrenta novas ameaças e descobre mais sobre o Multiverso.",
+        "poster_path": "/images/flash_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 23,
+        "realese_date": "2016-10-04",
+        "sinopse": "Após criar o Flashpoint, Barry precisa corrigir suas ações que causaram grandes mudanças no tempo.",
+        "poster_path": "/images/flash_s3.jpg"
+      },
+      {
+        "season": 4,
+        "episodes": 23,
+        "realese_date": "2017-10-10",
+        "sinopse": "A equipe Flash enfrenta uma nova ameaça que desafia a mente de Barry.",
+        "poster_path": "/images/flash_s4.jpg"
+      },
+      {
+        "season": 5,
+        "episodes": 22,
+        "realese_date": "2018-10-09",
+        "sinopse": "Barry e Iris enfrentam as consequências da chegada de sua filha do futuro.",
+        "poster_path": "/images/flash_s5.jpg"
+      },
+      {
+        "season": 6,
+        "episodes": 19,
+        "realese_date": "2019-10-08",
+        "sinopse": "Barry lida com a iminente crise que ameaça destruir o Multiverso.",
+        "poster_path": "/images/flash_s6.jpg"
+      },
+      {
+        "season": 7,
+        "episodes": 18,
+        "realese_date": "2021-03-02",
+        "sinopse": "A equipe Flash continua sua luta para proteger Central City após a crise.",
+        "poster_path": "/images/flash_s7.jpg"
+      },
+      {
+        "season": 8,
+        "episodes": 20,
+        "realese_date": "2021-11-16",
+        "sinopse": "Barry enfrenta seu maior desafio até agora enquanto tenta salvar o futuro.",
+        "poster_path": "/images/flash_s8.jpg"
+      },
+      {
+        "season": 9,
+        "episodes": 13,
+        "realese_date": "2023-02-08",
+        "sinopse": "A temporada final de Flash traz o fim da jornada de Barry Allen como o homem mais rápido do mundo.",
+        "poster_path": "/images/flash_s9.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/flash.jpg",
+    "producer": "Greg Berlanti",
+    "budget": 2500000,
+    "revenue": 500000000
+  },
+  {
+    "imdb_id": "tt10919420",
+    "title": "Ted Lasso",
+    "original_title": "Ted Lasso",
+    "adult": false,
+    "genres": ["Comedy", "Drama", "Sport"],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10,
+        "realese_date": "2020-08-14",
+        "sinopse": "Ted Lasso, um técnico de futebol americano, é contratado para treinar um time de futebol na Inglaterra, apesar de não ter experiência no esporte.",
+        "poster_path": "/images/ted_lasso_s1.jpg"
+      },
+      {
+        "season": 2,
+        "episodes": 12,
+        "realese_date": "2021-07-23",
+        "sinopse": "Ted continua sua jornada como treinador, enfrentando novos desafios pessoais e profissionais.",
+        "poster_path": "/images/ted_lasso_s2.jpg"
+      },
+      {
+        "season": 3,
+        "episodes": 12,
+        "realese_date": "2023-03-15",
+        "sinopse": "Ted Lasso e sua equipe enfrentam um futuro incerto enquanto tentam vencer na Premier League.",
+        "poster_path": "/images/ted_lasso_s3.jpg"
+      }
+    ],
+    "origin_country": "USA",
+    "original_language": "English",
+    "poster_path": "/images/ted_lasso.jpg",
+    "producer": "Bill Lawrence",
+    "budget": 4000000,
+    "revenue": 100000000
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
