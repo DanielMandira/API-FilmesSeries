@@ -649,9 +649,7 @@ const UpdateSerie = async (req, res) => {
       "seasons": "number",
       "origin_country": ["string"],
       "original_language": "string",
-      "poster
-
-_path": "string",
+      "poster_path": "string",
       "producer": "string",
       "budget": "number",
       "revenue": "number"
