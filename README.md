@@ -1,8 +1,5 @@
-# API-FilmesSeries
-API de Filmes e Series realizada em Aula 
-
----
-# Documentação da API de Filmes e Séries
+# API de Filmes e Séries
+API de filmes e séries feita para a matéria de Desenvolvimento Web 3.
 
 ## Importações
 
@@ -328,13 +325,13 @@ const UpdateMovie = async (req, res) => {
         release_date,
         duration,
         producer,
-
-
         budget,
         revenue
       );
 
-      res.sendStatus(200);
+      res.sendStatus(
+
+200);
     } else {
       res.sendStatus(400);
     }
@@ -345,7 +342,7 @@ const UpdateMovie = async (req, res) => {
 };
 ```
 
-### 6. Buscar Filmes por ID
+### 6. Buscar um Filme por ID
 
 - **Método:** `GET`
 - **URL:** `/movies/:id`
@@ -389,6 +386,292 @@ const getMovieById = async (req, res) => {
       const id = req.params.id;
       const movie = await movieService.GetById(id);
       res.status(200).json(movie);
+    } else {
+      res.sendStatus(400);
+    }
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: "Erro interno no servidor!" });
+  }
+};
+```
+
+### 7. Buscar Todas as Séries
+
+- **Método:** `GET`
+- **URL:** `/series`
+- **Descrição:** Recupera todas as séries do banco de dados.
+- **Respostas:**
+  - **200 OK**: Retorna um JSON com a lista de séries.
+    ```json
+    {
+      "series": [
+        {
+          "imdb_id": "string",
+          "title": "string",
+          "original_title": "string",
+          "adult": true/false,
+          "genres": ["string"],
+          "seasons": "number",
+          "origin_country": ["string"],
+          "original_language": "string",
+          "poster_path": "string",
+          "producer": "string",
+          "budget": "number",
+          "revenue": "number"
+        }
+      ]
+    }
+    ```
+  - **500 Internal Server Error**: Retorna um JSON com a mensagem de erro `Erro interno no servidor!`.
+    ```json
+    {
+      "error": "Erro interno no servidor!"
+    }
+    ```
+
+```javascript
+const getAllSeries = async (req, res) => {
+  try {
+    const series = await serieService.getAll();
+    res.status(200).json({ series });
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: "Erro interno no servidor!" });
+  }
+};
+```
+
+### 8. Criar uma Nova Série
+
+- **Método:** `POST`
+- **URL:** `/series`
+- **Descrição:** Cria uma nova série com base nos dados fornecidos no corpo da requisição.
+- **Corpo da Requisição:**
+  ```json
+  {
+    "imdb_id": "string",
+    "title": "string",
+    "original_title": "string",
+    "adult": true/false,
+    "genres": ["string"],
+    "seasons": "number",
+    "origin_country": ["string"],
+    "original_language": "string",
+    "poster_path": "string",
+    "producer": "string",
+    "budget": "number",
+    "revenue": "number"
+  }
+  ```
+- **Respostas:**
+  - **201 Created**: Indica que a série foi criada com sucesso.
+  - **500 Internal Server Error**: Retorna um JSON com a mensagem de erro `Erro interno no servidor!`.
+    ```json
+    {
+      "error": "Erro interno no servidor!"
+    }
+    ```
+
+```javascript
+const createSerie = async (req, res) => {
+  try {
+    const {
+      imdb_id,
+      title,
+      original_title,
+      adult,
+      genres,
+      seasons,
+      origin_country,
+      original_language,
+      poster_path,
+      producer,
+      budget,
+      revenue,
+    } = req.body;
+
+    await serieService.Create(
+      imdb_id,
+      title,
+      original_title,
+      adult,
+      genres,
+      seasons,
+      origin_country,
+      original_language,
+      poster_path,
+      producer,
+      budget,
+      revenue
+    );
+
+    res.sendStatus(201);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: "Erro interno no servidor!" });
+  }
+};
+```
+
+### 9. Deletar uma Série
+
+- **Método:** `DELETE`
+- **URL:** `/series/:id`
+- **Descrição:** Remove uma série do banco de dados com base no ID fornecido na URL.
+- **Parâmetros da URL:**
+  - `id` (string): ID da série a ser excluída.
+- **Respostas:**
+  - **204 No Content**: Indica que a série foi excluída com sucesso.
+  - **400 Bad Request**: Retorna um status de erro se o ID fornecido não for válido.
+  - **500 Internal Server Error**: Retorna um JSON com a mensagem de erro `Erro interno no servidor!`.
+    ```json
+    {
+      "error": "Erro interno no servidor!"
+    }
+    ```
+
+```javascript
+const deleteSerie = async (req, res) => {
+  try {
+    if (ObjectId.isValid(req.params.id)) {
+      const id = req.params.id;
+      serieService.Delete(id);
+      res.sendStatus(204);
+    } else {
+      res.sendStatus(400);
+    }
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: "Erro interno no servidor!" });
+  }
+};
+```
+
+### 10. Atualizar uma Série
+
+- **Método:** `PUT`
+- **URL:** `/series/:id`
+- **Descrição:** Atualiza as informações de uma série existente com base no ID e nos dados fornecidos no corpo da requisição.
+- **Parâmetros da URL:**
+  - `id` (string): ID da série a ser atualizada.
+- **Corpo da Requisição:**
+  ```json
+  {
+    "imdb_id": "string",
+    "title": "string",
+    "original_title": "string",
+    "adult": true/false,
+    "genres": ["string"],
+    "seasons": "number",
+    "origin_country": ["string"],
+    "original_language": "string",
+    "poster_path": "string",
+    "producer": "string",
+    "budget": "number",
+    "revenue": "number"
+  }
+  ```
+- **Respostas:**
+  - **200 OK**: Indica que a série foi atualizada com sucesso.
+  - **400 Bad Request**: Retorna um status de erro se o ID fornecido não for válido.
+  - **500 Internal Server Error**: Retorna um JSON com a mensagem de erro `Erro interno no servidor!`.
+    ```json
+    {
+      "error": "Erro interno no servidor!"
+    }
+    ```
+
+```javascript
+const UpdateSerie = async (req, res) => {
+  try {
+    if (ObjectId.isValid(req.params.id)) {
+      const id = req.params.id;
+
+      const {
+        imdb_id,
+        title,
+        original_title,
+        adult,
+        genres,
+        seasons,
+        origin_country,
+        original_language,
+        poster_path,
+        producer,
+        budget,
+        revenue,
+      } = req.body;
+
+      await serieService.Update(
+        id,
+        imdb_id,
+        title,
+        original_title,
+        adult,
+        genres,
+        seasons,
+        origin_country,
+        original_language,
+        poster_path,
+        producer,
+        budget,
+        revenue
+      );
+
+      res.sendStatus(200);
+    } else {
+      res.sendStatus(400);
+    }
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: "Erro interno no servidor!" });
+  }
+};
+```
+
+### 11. Buscar uma Série por ID
+
+- **Método:** `GET`
+- **URL:** `/series/:id`
+- **Descrição:** Recupera uma série do banco de dados com base no ID fornecido na URL.
+- **Parâmetros da URL:**
+  - `id` (string): ID da série a ser recuperada.
+- **Respostas:**
+  - **200 OK**: Retorna um JSON com os detalhes da série.
+    ```json
+    {
+      "imdb_id": "string",
+      "title": "string",
+      "original_title": "string",
+      "adult": true/false,
+      "genres": ["string"],
+      "seasons": "number",
+      "origin_country": ["string"],
+      "original_language": "string",
+      "poster
+
+_path": "string",
+      "producer": "string",
+      "budget": "number",
+      "revenue": "number"
+    }
+    ```
+  - **400 Bad Request**: Retorna um status de erro se o ID fornecido não for válido.
+  - **500 Internal Server Error**: Retorna um JSON com a mensagem de erro `Erro interno no servidor!`.
+    ```json
+    {
+      "error": "Erro interno no servidor!"
+    }
+    ```
+
+```javascript
+const getSerieById = async (req, res) => {
+  try {
+    if (ObjectId.isValid(req.params.id)) {
+      const id = req.params.id;
+      const serie = await serieService.GetById(id);
+      res.status(200).json(serie);
     } else {
       res.sendStatus(400);
     }
