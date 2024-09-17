@@ -1,4 +1,4 @@
-{
+[{
   "imdb_id": "tt1723811",
   "title": "Shame",
   "original_title": "Shame",
@@ -33,7 +33,7 @@
   "producer": "Steve McQueen",
   "budget": 6200000,
   "revenue": 17300000
-}
+},
 {
   "imdb_id": "tt1937390",
   "title": "Nymphomaniac",
@@ -69,7 +69,7 @@
   "producer": "Lars von Trier",
   "budget": 4800000,
   "revenue": 13000000
-}
+},
 {
   "imdb_id": "tt2278871",
   "title": "Blue Is the Warmest Color",
@@ -105,7 +105,7 @@
   "producer": "Abdellatif Kechiche",
   "budget": 4000000,
   "revenue": 19100000
-}
+},
 {
   "imdb_id": "tt0120663",
   "title": "Eyes Wide Shut",
@@ -141,7 +141,7 @@
   "producer": "Stanley Kubrick",
   "budget": 65000000,
   "revenue": 162000000
-}
+},
 {
   "imdb_id": "tt6751668",
   "title": "Parasite",
@@ -177,7 +177,7 @@
   "producer": "Bong Joon Ho",
   "budget": 11000000,
   "revenue": 258000000
-}
+},
 {
   "imdb_id": "tt1375666",
   "title": "Inception",
@@ -213,7 +213,7 @@
   "producer": "Christopher Nolan",
   "budget": 160000000,
   "revenue": 830000000
-}
+},
 {
   "imdb_id": "tt0816692",
   "title": "Interstellar",
@@ -249,7 +249,7 @@
   "producer": "Christopher Nolan",
   "budget": 165000000,
   "revenue": 677000000
-}
+},
 {
   "imdb_id": "tt1663202",
   "title": "The Revenant",
@@ -285,7 +285,7 @@
   "producer": "Alejandro G. Iñárritu",
   "budget": 135000000,
   "revenue": 533000000
-}
+},
 {
   "imdb_id": "tt5013056",
   "title": "Dunkirk",
@@ -321,7 +321,7 @@
   "producer": "Christopher Nolan",
   "budget": 100000000,
   "revenue": 526000000
-}
+},
 {
   "imdb_id": "tt0108052",
   "title": "Schindler's List",
@@ -357,7 +357,7 @@
   "producer": "Steven Spielberg",
   "budget": 22000000,
   "revenue": 322000000
-}
+},
 {
   "imdb_id": "tt0172495",
   "title": "Gladiator",
@@ -393,7 +393,7 @@
   "producer": "Ridley Scott",
   "budget": 103000000,
   "revenue": 457640427
-}
+},
 {
   "imdb_id": "tt3659388",
   "title": "The Martian",
@@ -429,7 +429,7 @@
   "producer": "Ridley Scott",
   "budget": 108000000,
   "revenue": 630000000
-}
+},
 {
   "imdb_id": "tt1392190",
   "title": "Mad Max: Fury Road",
@@ -465,7 +465,7 @@
   "producer": "George Miller",
   "budget": 150000000,
   "revenue": 375000000
-}
+},
 {
   "imdb_id": "tt1856101",
   "title": "Blade Runner 2049",
@@ -501,7 +501,7 @@
   "producer": "Ridley Scott",
   "budget": 150000000,
   "revenue": 259239658
-}
+},
 {
   "imdb_id": "tt0137523",
   "title": "Fight Club",
@@ -537,7 +537,7 @@
   "producer": "Art Linson",
   "budget": 63000000,
   "revenue": 101209702
-}
+},
 {
   "imdb_id": "tt0120737",
   "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -573,7 +573,7 @@
   "producer": "Peter Jackson",
   "budget": 93000000,
   "revenue": 871530324
-}
+},
 {
   "imdb_id": "tt0110912",
   "title": "Pulp Fiction",
@@ -609,7 +609,7 @@
   "producer": "Lawrence Bender",
   "budget": 8000000,
   "revenue": 213928762
-}
+},
 {
   "imdb_id": "tt0133093",
   "title": "The Matrix",
@@ -645,7 +645,7 @@
   "producer": "Joel Silver",
   "budget": 63000000,
   "revenue": 466363103
-}
+},
 {
   "imdb_id": "tt0468569",
   "title": "The Dark Knight",
@@ -682,3 +682,4 @@
   "budget": 185000000,
   "revenue": 1004558444
 }
+]

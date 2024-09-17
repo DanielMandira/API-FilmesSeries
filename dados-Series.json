@@ -275,8 +275,7 @@
     "producer": "Tom Kapinos",
     "budget": 4000000,
     "revenue": 80000000
-  }
-
+  },
   {
     "imdb_id": "tt11083550",
     "title": "Goblin",
@@ -364,8 +363,7 @@
     "producer": "Lee Na-eun",
     "budget": 2000000,
     "revenue": 40000000
-  }
-[
+  },
   {
     "imdb_id": "tt7366338",
     "title": "Chernobyl",
@@ -380,7 +378,7 @@
         "sinopse": "Série que dramatiza o desastre nuclear de Chernobyl em 1986 e os esforços heróicos daqueles que tentaram minimizar os danos.",
         "poster_path": "/images/chernobyl_s1.jpg"
       }
-    
+    ],
     "origin_country": "USA",
     "original_language": "English",
     "poster_path": "/images/chernobyl.jpg",
@@ -715,8 +713,7 @@
     "producer": "Jon Favreau",
     "budget": 15000000,
     "revenue": 400000000
-  }
-
+  },
   {
     "imdb_id": "tt0903747",
     "title": "Breaking Bad",
@@ -925,25 +922,3 @@
     "revenue": 100000000
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
