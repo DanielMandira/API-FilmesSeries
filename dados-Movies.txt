@@ -1,0 +1,684 @@
+{
+  "imdb_id": "tt1723811",
+  "title": "Shame",
+  "original_title": "Shame",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Shame"
+    },
+    {
+      "county": "France",
+      "title": "Shame"
+    }
+  ],
+  "adult": true,
+  "genres": ["Drama"],
+  "synopsis": "Um homem de Nova York luta contra o vício em sexo, enquanto sua vida pessoal e profissional começam a desmoronar.",
+  "cast": [
+    {
+      "actor": "Michael Fassbender",
+      "character": "Brandon"
+    },
+    {
+      "actor": "Carey Mulligan",
+      "character": "Sissy"
+    }
+  ],
+  "origin_country": "UK",
+  "original_language": "English",
+  "poster_path": "https://example.com/shame-poster.jpg",
+  "release_date": "2011-12-02",
+  "duration": "101 minutes",
+  "producer": "Steve McQueen",
+  "budget": 6200000,
+  "revenue": 17300000
+}
+{
+  "imdb_id": "tt1937390",
+  "title": "Nymphomaniac",
+  "original_title": "Nymphomaniac",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Ninfomaníaca"
+    },
+    {
+      "county": "France",
+      "title": "Nymphomaniac"
+    }
+  ],
+  "adult": true,
+  "genres": ["Drama", "Romance"],
+  "synopsis": "A vida de uma mulher contada por ela mesma, em uma jornada sobre sua compulsão sexual e os eventos que moldaram sua história.",
+  "cast": [
+    {
+      "actor": "Charlotte Gainsbourg",
+      "character": "Joe"
+    },
+    {
+      "actor": "Stellan Skarsgård",
+      "character": "Seligman"
+    }
+  ],
+  "origin_country": "Denmark",
+  "original_language": "English",
+  "poster_path": "https://example.com/nymphomaniac-poster.jpg",
+  "release_date": "2013-12-25",
+  "duration": "241 minutes",
+  "producer": "Lars von Trier",
+  "budget": 4800000,
+  "revenue": 13000000
+}
+{
+  "imdb_id": "tt2278871",
+  "title": "Blue Is the Warmest Color",
+  "original_title": "La Vie d'Adèle",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Azul é a Cor Mais Quente"
+    },
+    {
+      "county": "France",
+      "title": "La Vie d'Adèle"
+    }
+  ],
+  "adult": true,
+  "genres": ["Drama", "Romance"],
+  "synopsis": "Adele é uma adolescente que descobre a paixão e o desejo ao se apaixonar por uma jovem mulher de cabelos azuis, mudando sua vida para sempre.",
+  "cast": [
+    {
+      "actor": "Adèle Exarchopoulos",
+      "character": "Adèle"
+    },
+    {
+      "actor": "Léa Seydoux",
+      "character": "Emma"
+    }
+  ],
+  "origin_country": "France",
+  "original_language": "French",
+  "poster_path": "https://example.com/blue-is-the-warmest-color-poster.jpg",
+  "release_date": "2013-10-09",
+  "duration": "179 minutes",
+  "producer": "Abdellatif Kechiche",
+  "budget": 4000000,
+  "revenue": 19100000
+}
+{
+  "imdb_id": "tt0120663",
+  "title": "Eyes Wide Shut",
+  "original_title": "Eyes Wide Shut",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "De Olhos Bem Fechados"
+    },
+    {
+      "county": "France",
+      "title": "Eyes Wide Shut"
+    }
+  ],
+  "adult": true,
+  "genres": ["Drama", "Mystery", "Thriller"],
+  "synopsis": "Após uma revelação chocante de sua esposa, um médico entra em uma jornada sexual e moral que o leva a um submundo perigoso.",
+  "cast": [
+    {
+      "actor": "Tom Cruise",
+      "character": "Dr. Bill Harford"
+    },
+    {
+      "actor": "Nicole Kidman",
+      "character": "Alice Harford"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/eyes-wide-shut-poster.jpg",
+  "release_date": "1999-07-16",
+  "duration": "159 minutes",
+  "producer": "Stanley Kubrick",
+  "budget": 65000000,
+  "revenue": 162000000
+}
+{
+  "imdb_id": "tt6751668",
+  "title": "Parasite",
+  "original_title": "Gisaengchung",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Parasita"
+    },
+    {
+      "county": "France",
+      "title": "Parasite"
+    }
+  ],
+  "adult": false,
+  "genres": ["Comedy", "Drama", "Thriller"],
+  "synopsis": "A vida de uma família pobre muda drasticamente quando conseguem um emprego na casa de uma família rica, levando a uma cadeia de eventos imprevisíveis.",
+  "cast": [
+    {
+      "actor": "Kang-ho Song",
+      "character": "Kim Ki-taek"
+    },
+    {
+      "actor": "Sun-kyun Lee",
+      "character": "Park Dong-ik"
+    }
+  ],
+  "origin_country": "South Korea",
+  "original_language": "Korean",
+  "poster_path": "https://example.com/parasite-poster.jpg",
+  "release_date": "2019-05-30",
+  "duration": "132 minutes",
+  "producer": "Bong Joon Ho",
+  "budget": 11000000,
+  "revenue": 258000000
+}
+{
+  "imdb_id": "tt1375666",
+  "title": "Inception",
+  "original_title": "Inception",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "A Origem"
+    },
+    {
+      "county": "France",
+      "title": "Inception"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Sci-Fi", "Thriller"],
+  "synopsis": "Um ladrão com a habilidade de invadir os sonhos das pessoas é oferecido uma chance de redenção se conseguir plantar uma ideia na mente de alguém.",
+  "cast": [
+    {
+      "actor": "Leonardo DiCaprio",
+      "character": "Cobb"
+    },
+    {
+      "actor": "Joseph Gordon-Levitt",
+      "character": "Arthur"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/inception-poster.jpg",
+  "release_date": "2010-07-16",
+  "duration": "148 minutes",
+  "producer": "Christopher Nolan",
+  "budget": 160000000,
+  "revenue": 830000000
+}
+{
+  "imdb_id": "tt0816692",
+  "title": "Interstellar",
+  "original_title": "Interstellar",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Interestelar"
+    },
+    {
+      "county": "France",
+      "title": "Interstellaire"
+    }
+  ],
+  "adult": false,
+  "genres": ["Adventure", "Drama", "Sci-Fi"],
+  "synopsis": "Um grupo de exploradores viaja por um buraco de minhoca para garantir o futuro da humanidade.",
+  "cast": [
+    {
+      "actor": "Matthew McConaughey",
+      "character": "Cooper"
+    },
+    {
+      "actor": "Anne Hathaway",
+      "character": "Brand"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/interstellar-poster.jpg",
+  "release_date": "2014-11-07",
+  "duration": "169 minutes",
+  "producer": "Christopher Nolan",
+  "budget": 165000000,
+  "revenue": 677000000
+}
+{
+  "imdb_id": "tt1663202",
+  "title": "The Revenant",
+  "original_title": "The Revenant",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "O Regresso"
+    },
+    {
+      "county": "France",
+      "title": "Le Revenant"
+    }
+  ],
+  "adult": false,
+  "genres": ["Adventure", "Drama", "Thriller"],
+  "synopsis": "Um caçador de peles é deixado para morrer no deserto por seus companheiros após ser brutalmente atacado por um urso.",
+  "cast": [
+    {
+      "actor": "Leonardo DiCaprio",
+      "character": "Hugh Glass"
+    },
+    {
+      "actor": "Tom Hardy",
+      "character": "John Fitzgerald"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/the-revenant-poster.jpg",
+  "release_date": "2015-12-25",
+  "duration": "156 minutes",
+  "producer": "Alejandro G. Iñárritu",
+  "budget": 135000000,
+  "revenue": 533000000
+}
+{
+  "imdb_id": "tt5013056",
+  "title": "Dunkirk",
+  "original_title": "Dunkirk",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Dunkirk"
+    },
+    {
+      "county": "France",
+      "title": "Dunkerque"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Drama", "History"],
+  "synopsis": "Soldados aliados da Bélgica, Reino Unido e França são cercados pelas forças alemãs e evacuados durante uma batalha feroz na Segunda Guerra Mundial.",
+  "cast": [
+    {
+      "actor": "Fionn Whitehead",
+      "character": "Tommy"
+    },
+    {
+      "actor": "Tom Hardy",
+      "character": "Farrier"
+    }
+  ],
+  "origin_country": "UK",
+  "original_language": "English",
+  "poster_path": "https://example.com/dunkirk-poster.jpg",
+  "release_date": "2017-07-21",
+  "duration": "106 minutes",
+  "producer": "Christopher Nolan",
+  "budget": 100000000,
+  "revenue": 526000000
+}
+{
+  "imdb_id": "tt0108052",
+  "title": "Schindler's List",
+  "original_title": "Schindler's List",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "A Lista de Schindler"
+    },
+    {
+      "county": "France",
+      "title": "La Liste de Schindler"
+    }
+  ],
+  "adult": false,
+  "genres": ["Biography", "Drama", "History"],
+  "synopsis": "A verdadeira história de Oskar Schindler, que salvou mais de mil judeus durante o Holocausto.",
+  "cast": [
+    {
+      "actor": "Liam Neeson",
+      "character": "Oskar Schindler"
+    },
+    {
+      "actor": "Ben Kingsley",
+      "character": "Itzhak Stern"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/schindlers-list-poster.jpg",
+  "release_date": "1993-12-15",
+  "duration": "195 minutes",
+  "producer": "Steven Spielberg",
+  "budget": 22000000,
+  "revenue": 322000000
+}
+{
+  "imdb_id": "tt0172495",
+  "title": "Gladiator",
+  "original_title": "Gladiator",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Gladiador"
+    },
+    {
+      "county": "France",
+      "title": "Gladiateur"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Adventure", "Drama"],
+  "synopsis": "Um ex-general romano busca vingança contra o imperador corrupto que matou sua família e o condenou à escravidão.",
+  "cast": [
+    {
+      "actor": "Russell Crowe",
+      "character": "Maximus"
+    },
+    {
+      "actor": "Joaquin Phoenix",
+      "character": "Commodus"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/gladiator-poster.jpg",
+  "release_date": "2000-05-05",
+  "duration": "155 minutes",
+  "producer": "Ridley Scott",
+  "budget": 103000000,
+  "revenue": 457640427
+}
+{
+  "imdb_id": "tt3659388",
+  "title": "The Martian",
+  "original_title": "The Martian",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Perdido em Marte"
+    },
+    {
+      "county": "France",
+      "title": "Seul sur Mars"
+    }
+  ],
+  "adult": false,
+  "genres": ["Adventure", "Drama", "Sci-Fi"],
+  "synopsis": "Um astronauta é deixado para trás em Marte e deve usar sua engenhosidade para sobreviver até ser resgatado.",
+  "cast": [
+    {
+      "actor": "Matt Damon",
+      "character": "Mark Watney"
+    },
+    {
+      "actor": "Jessica Chastain",
+      "character": "Melissa Lewis"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/the-martian-poster.jpg",
+  "release_date": "2015-10-02",
+  "duration": "144 minutes",
+  "producer": "Ridley Scott",
+  "budget": 108000000,
+  "revenue": 630000000
+}
+{
+  "imdb_id": "tt1392190",
+  "title": "Mad Max: Fury Road",
+  "original_title": "Mad Max: Fury Road",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Mad Max: Estrada da Fúria"
+    },
+    {
+      "county": "France",
+      "title": "Mad Max: Fury Road"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Adventure", "Sci-Fi"],
+  "synopsis": "Em um mundo pós-apocalíptico, Max se une a Furiosa para fugir de um tirano e sua gangue em uma fuga de alta octanagem.",
+  "cast": [
+    {
+      "actor": "Tom Hardy",
+      "character": "Max Rockatansky"
+    },
+    {
+      "actor": "Charlize Theron",
+      "character": "Imperator Furiosa"
+    }
+  ],
+  "origin_country": "Australia",
+  "original_language": "English",
+  "poster_path": "https://example.com/mad-max-fury-road-poster.jpg",
+  "release_date": "2015-05-15",
+  "duration": "120 minutes",
+  "producer": "George Miller",
+  "budget": 150000000,
+  "revenue": 375000000
+}
+{
+  "imdb_id": "tt1856101",
+  "title": "Blade Runner 2049",
+  "original_title": "Blade Runner 2049",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Blade Runner 2049"
+    },
+    {
+      "county": "France",
+      "title": "Blade Runner 2049"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Drama", "Sci-Fi"],
+  "synopsis": "Um jovem blade runner descobre um segredo há muito enterrado que pode mergulhar o que resta da sociedade no caos.",
+  "cast": [
+    {
+      "actor": "Ryan Gosling",
+      "character": "K"
+    },
+    {
+      "actor": "Harrison Ford",
+      "character": "Rick Deckard"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/blade-runner-2049-poster.jpg",
+  "release_date": "2017-10-06",
+  "duration": "164 minutes",
+  "producer": "Ridley Scott",
+  "budget": 150000000,
+  "revenue": 259239658
+}
+{
+  "imdb_id": "tt0137523",
+  "title": "Fight Club",
+  "original_title": "Fight Club",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Clube da Luta"
+    },
+    {
+      "county": "France",
+      "title": "Fight Club"
+    }
+  ],
+  "adult": true,
+  "genres": ["Drama"],
+  "synopsis": "Um trabalhador de escritório insatisfeito forma um clube de luta clandestino com um vendedor de sabonetes imprudente, e sua aliança se transforma em algo muito mais.",
+  "cast": [
+    {
+      "actor": "Brad Pitt",
+      "character": "Tyler Durden"
+    },
+    {
+      "actor": "Edward Norton",
+      "character": "Narrator"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/fight-club-poster.jpg",
+  "release_date": "1999-10-15",
+  "duration": "139 minutes",
+  "producer": "Art Linson",
+  "budget": 63000000,
+  "revenue": 101209702
+}
+{
+  "imdb_id": "tt0120737",
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "O Senhor dos Anéis: A Sociedade do Anel"
+    },
+    {
+      "county": "France",
+      "title": "Le Seigneur des Anneaux: La Communauté de l'Anneau"
+    }
+  ],
+  "adult": false,
+  "genres": ["Adventure", "Fantasy"],
+  "synopsis": "Um jovem hobbit e seus amigos embarcam em uma perigosa jornada para destruir um anel mágico antes que ele caia nas mãos do mal.",
+  "cast": [
+    {
+      "actor": "Elijah Wood",
+      "character": "Frodo Baggins"
+    },
+    {
+      "actor": "Ian McKellen",
+      "character": "Gandalf"
+    }
+  ],
+  "origin_country": "New Zealand",
+  "original_language": "English",
+  "poster_path": "https://example.com/fellowship-poster.jpg",
+  "release_date": "2001-12-19",
+  "duration": "178 minutes",
+  "producer": "Peter Jackson",
+  "budget": 93000000,
+  "revenue": 871530324
+}
+{
+  "imdb_id": "tt0110912",
+  "title": "Pulp Fiction",
+  "original_title": "Pulp Fiction",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Pulp Fiction: Tempo de Violência"
+    },
+    {
+      "county": "France",
+      "title": "Pulp Fiction"
+    }
+  ],
+  "adult": true,
+  "genres": ["Crime", "Drama"],
+  "synopsis": "As vidas de dois assassinos, um boxeador, a esposa de um gangster e dois bandidos se entrelaçam em quatro contos de violência e redenção.",
+  "cast": [
+    {
+      "actor": "John Travolta",
+      "character": "Vincent Vega"
+    },
+    {
+      "actor": "Samuel L. Jackson",
+      "character": "Jules Winnfield"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/pulp-fiction-poster.jpg",
+  "release_date": "1994-10-14",
+  "duration": "154 minutes",
+  "producer": "Lawrence Bender",
+  "budget": 8000000,
+  "revenue": 213928762
+}
+{
+  "imdb_id": "tt0133093",
+  "title": "The Matrix",
+  "original_title": "The Matrix",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Matrix"
+    },
+    {
+      "county": "France",
+      "title": "Matrix"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Sci-Fi"],
+  "synopsis": "Um hacker descobre que a realidade como conhecemos é uma simulação digital criada por máquinas e junta-se à rebelião contra elas.",
+  "cast": [
+    {
+      "actor": "Keanu Reeves",
+      "character": "Neo"
+    },
+    {
+      "actor": "Laurence Fishburne",
+      "character": "Morpheus"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/the-matrix-poster.jpg",
+  "release_date": "1999-03-31",
+  "duration": "136 minutes",
+  "producer": "Joel Silver",
+  "budget": 63000000,
+  "revenue": 466363103
+}
+{
+  "imdb_id": "tt0468569",
+  "title": "The Dark Knight",
+  "original_title": "The Dark Knight",
+  "alternative_titles": [
+    {
+      "county": "Brazil",
+      "title": "Batman: O Cavaleiro das Trevas"
+    },
+    {
+      "county": "France",
+      "title": "Le Chevalier Noir"
+    }
+  ],
+  "adult": false,
+  "genres": ["Action", "Crime", "Drama"],
+  "synopsis": "Quando o Coringa emerge como um novo e cruel inimigo em Gotham, Batman precisa confrontar seus próprios limites para restaurar a ordem.",
+  "cast": [
+    {
+      "actor": "Christian Bale",
+      "character": "Bruce Wayne / Batman"
+    },
+    {
+      "actor": "Heath Ledger",
+      "character": "Joker"
+    }
+  ],
+  "origin_country": "USA",
+  "original_language": "English",
+  "poster_path": "https://example.com/the-dark-knight-poster.jpg",
+  "release_date": "2008-07-18",
+  "duration": "152 minutes",
+  "producer": "Christopher Nolan",
+  "budget": 185000000,
+  "revenue": 1004558444
+}
